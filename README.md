@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning PHP
+
+what can i do now, idk
